@@ -6,7 +6,7 @@ Full step-by-step guide — from downloaded zip to live URL.
 
 ## Step 1 — Push to GitHub
 
-### 1a. Create a GitHub repository
+### 1a. Create a GitHub repositorys
 
 1. Go to [github.com/new](https://github.com/new)
 2. Repository name: `dawaclear`
