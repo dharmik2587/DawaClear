@@ -7,7 +7,7 @@ import fetch from 'node-fetch'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const app = express()
 
-// ── Middleware ─────────────────────────────────────────────────────────────s
+// ── Middleware ─────────────────────────────────────────────────────────────
 app.use(express.json({ limit: '20mb' })) // prescriptions can have large base64 images
 
 // ── Serve built frontend ───────────────────────────────────────────────────
