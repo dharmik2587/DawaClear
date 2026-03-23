@@ -6,7 +6,7 @@ Upload any prescription, discharge summary, or lab report. DawaClear uses **Clau
 
 ---
 
-## Features
+## FeaturesSS
 
 - 📄 **Real document analysis** — Claude Vision reads handwritten and printed prescriptions
 - ⏰ **Visual daily timeline** — Morning / Afternoon / Night with dose checkboxes
